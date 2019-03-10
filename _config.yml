@@ -1,0 +1,32 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://indlno.github.io
+title: Home
+email: contactindlno@gmail.com
+author: 'INDLNO'
+description: 'INDLNO Prototype Consultants - AI,IoT and Perceptual Computing'
+copyright: 'Copyright &copy; 2019 INDLNO. All Rights Reserved.'
+credits: ''
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+# social:
+#   - title: github
+#     faicon: github
+#     url: https://github.com/rishabhbanga
+#     url: https://github.com/lakshay42
+#   - title: linkedin
+#     faicon: linkedin  
+#     url: https://www.linkedin.com/in/rishabhbanga/
