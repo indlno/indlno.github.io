@@ -1,7 +1,7 @@
 ---
 layout: default
 img: projects.png
-category: Services
+category: services-proj
 title: Projects
 description: |
 ---
