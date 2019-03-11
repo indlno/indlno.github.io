@@ -1,6 +1,6 @@
 ---
 layout: default
-category: Services
+category: services-proj
 title: About
 description: |
 ---
